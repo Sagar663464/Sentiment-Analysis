@@ -1,0 +1,87 @@
+.body{
+    background: fixed;
+    background-color: #f5f0e1;
+    border: red;
+    border-radius: 22px;
+}
+
+
+.title{
+    text-align: center;
+    font-family: cursive;
+    font-size: 24px;
+    background-color: #1e3d59;
+    border-radius:10px;
+    padding: 3px;
+    color: white;
+}
+
+.intro{
+    text-align: center;
+    font-family: cursive;
+}
+
+
+
+
+#forms{
+    text-align: center;
+    font-family: cursive;
+    padding: 15px;
+    border: 2px solid black;
+    border-radius:10px;
+    width:650px;
+    right: 2%;
+    
+}
+
+#forms:hover{
+    background-color: #FAF9F6;
+}
+
+#submit-btn{
+    appearance:none;
+    -webkit-appearance:none;
+    font-family: cursive;
+  
+    padding:14px;
+    border:none;
+    background-color:#ff6e50;
+    color:#fff;
+    font-weight:600;
+    border-radius:5px;
+    width:600px;
+}
+
+#submit-btn:hover{
+    background-color:#ff6e10;
+}
+
+#entered-txt{
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+#final_txt{
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+
+.footer{
+    position: fixed;  
+    left: 10px;  
+    bottom: 30px;  
+    right: 10px;   
+    width: 10%;  
+    background-color: #ffc13b;  
+    color: white;  
+    text-align: left;  
+    font-family: cursive;
+}
+
+.footer:hover{
+    background-color: #ffc17b;
+}

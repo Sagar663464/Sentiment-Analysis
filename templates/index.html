@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet", href="static/css/style.css">
+    </head>
+    <body class="body">
+        <div class="title">
+            <h1>
+                Sentiment Analysis using TextBlob
+            </h1>
+        </div>
+        <div class="main-text">
+            
+
+            <div class="intro">
+                <p>
+                    Detect the polarity of text using Natural Language Processing.
+                </p>
+            </div><br>
+            <div style="text-align: center;">
+                <form action="/coll", method="post">
+                    <input type="text", name="txt", id="forms", placeholder="Enter the text"><br><br><br>
+        
+                    <input type="submit", value="Submit", id="submit-btn">
+                
+            </div>
+            <p id="entered-txt"> {{input_txt}}</p>
+            <p id="final_txt">{{ text }}</p>
+        </div>
+        <footer class="footer">
+            <div><a href="/">Go to welcome page!</a></div>
+        </footer>
+    </body>
+</html>
