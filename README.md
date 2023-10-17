@@ -1,6 +1,6 @@
 # Sentiment Analysis using TextBlob
 
-This repo is all about sentiment analysis of *tweets from twitter*. I've used TextBlob's naive bayes classifier model for classification. The dataset is too large to upload in GitHub with over 6 million records and 290 MB. It has a jupyter notebook `main.ipynb` with which you can learn about the processes that are needed to be done. Firstly I've taken models from sklearn, and it's accuracy were very low. So I have to move onto some other models. Also while vectorizing a new text from user input, it was giving me vecctors with 3 to 4 features while the trained data had 1000 features. I encountered few problems in this part, so I had to move onto other models. I chosed TextBlob's Naive Bayes classifier model, which worked pretty well.
+This repo is all about sentiment analysis of *tweets from Twitter*. I've used TextBlob's naive bayes classifier model for classification. The dataset is too large to upload in GitHub with over 6 million records and 290 MB. It has a jupyter notebook `main.ipynb` with which you can learn about the processes that are needed to be done. Firstly I've taken models from sklearn, and it's accuracy were very low. So I have to move onto some other models. Also while vectorizing a new text from user input, it was giving me vecctors with 3 to 4 features while the trained data had 1000 features. I encountered few problems in this part, so I had to move onto other models. I chosed TextBlob's Naive Bayes classifier model, which worked pretty well.
 
 
 ## Dataset description
