@@ -33,10 +33,8 @@ had 2 unique valuee(0 - Negative and 1 - Positive). Only needed features were ta
 - It would display the polarity of texts entered.
 
 ## Screenshots
-![Screenshot 2023-10-15 114402](https://github.com/Sagar663464/Sentiment-Analysis/assets/65543059/9e9feddc-a193-4aa3-95b6-09296dac89d4)
+![Screenshot 2023-10-28 110309](https://github.com/Sagar663464/Sentiment-Analysis/assets/65543059/50c8cd2a-8b69-4079-81a8-fe3caf70853c)
 
-![Screenshot 2023-10-15 120041](https://github.com/Sagar663464/Sentiment-Analysis/assets/65543059/3181169b-32db-4818-8c0d-12dddea2f1dd)
+![Screenshot 2023-10-28 110556](https://github.com/Sagar663464/Sentiment-Analysis/assets/65543059/5dcd7626-003f-411e-928d-874e90bd4d20)
 
-![Screenshot 2023-10-17 112449](https://github.com/Sagar663464/Sentiment-Analysis/assets/65543059/70a68028-5e70-4846-a4d5-1c2ccf36a5db)
-
-
+![Screenshot 2023-10-28 110834](https://github.com/Sagar663464/Sentiment-Analysis/assets/65543059/f5c34152-9414-4cee-b910-1bda32dcd313)
